@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="C:\Users\bryan.jonathan\AndroidStudioProjects\ExtraMealFix\app"
+    name=":app"
+    type="APP"
+    maven="ExtraMealFix:app:unspecified"
+    agpVersion="8.6.0"
+    buildFolder="build"
+    bootClassPath="C:\Users\bryan.jonathan\AppData\Local\Android\Sdk\platforms\android-34\android.jar;C:\Users\bryan.jonathan\AppData\Local\Android\Sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

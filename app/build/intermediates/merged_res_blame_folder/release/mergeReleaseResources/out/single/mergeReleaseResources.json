@@ -1,0 +1,682 @@
+[
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_top_background2.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/top_background2.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_notification.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/notification.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_name.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/name.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_ic_1.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/ic_1.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_top_background.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/top_background.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_name.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/name.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_ic_8.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/ic_8.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_email.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/email.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_ic_5.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/ic_5.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable_baseline_fingerprint_24.xml.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable/baseline_fingerprint_24.xml"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_logo.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_ic_2.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/ic_2.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.extramealfix.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_ic_8.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/ic_8.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_top_background2.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/top_background2.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_top_background_final_fixed.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/top_background_final_fixed.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_search_icon.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/search_icon.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_password.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/password.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_email.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/email.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_name.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/name.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable_baseline_lock_24.xml.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable/baseline_lock_24.xml"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_logo.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/logo.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_ic_8.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/ic_8.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_btn_arrow2.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/btn_arrow2.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_video_call.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/video_call.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_ic_1.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/ic_1.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_top_background2.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/top_background2.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_btn_arraw1.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/btn_arraw1.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_email.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/email.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_name.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/name.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_ic_1.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/ic_1.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_facebook.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/facebook.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_ic_8.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/ic_8.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_password.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/password.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_top_background1.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/top_background1.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_profile.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/profile.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_ic_6.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/ic_6.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_notification.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/notification.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_notification.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/notification.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_ic_2.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/ic_2.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_ic_6.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/ic_6.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_notification.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/notification.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_facebook.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/facebook.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_password.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/password.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_search_icon.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/search_icon.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.extramealfix.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_ic_1.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/ic_1.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_top_background.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/top_background.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_ic_7.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/ic_7.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable_ic_fingerprint.xml.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable/ic_fingerprint.xml"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.extramealfix.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable_edittext_background.xml.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable/edittext_background.xml"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_voice_call.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/voice_call.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_google.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/google.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_ic_7.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/ic_7.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_ic_3.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/ic_3.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_google.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/google.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.extramealfix.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_top_background.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/top_background.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_btn_arrow2.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/btn_arrow2.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_top_background.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/top_background.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_ic_4.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/ic_4.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_ic_6.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/ic_6.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_btn_arrow2.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/btn_arrow2.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.extramealfix.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_top_background2.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/top_background2.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_ic_3.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/ic_3.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_password.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/password.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_password.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/password.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_ic_4.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/ic_4.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_logo.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_btn_arraw1.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/btn_arraw1.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_ic_7.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/ic_7.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_logo.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_ic_3.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/ic_3.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_voice_call.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/voice_call.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_btn_arraw1.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/btn_arraw1.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_ic_4.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/ic_4.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_voice_call.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/voice_call.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/layout_activity_finger_print.xml.flat",
+        "source": "com.example.extramealfix.app-main-35:/layout/activity_finger_print.xml"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_voice_call.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/voice_call.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_profile.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/profile.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_facebook.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/facebook.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.extramealfix.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_top_background.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/top_background.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_top_background1.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/top_background1.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_ic_6.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/ic_6.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_btn_arraw1.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/btn_arraw1.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.extramealfix.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_profile.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/profile.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_logo.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable_baseline_email_24.xml.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_top_background_recolored.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/top_background_recolored.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_ic_4.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/ic_4.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_profile.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/profile.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_ic_1.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/ic_1.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_ic_2.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/ic_2.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_btn_arrow2.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/btn_arrow2.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_ic_5.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/ic_5.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_search_icon.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/search_icon.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.extramealfix.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_name.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/name.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_ic_1.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/ic_1.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_ic_5.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/ic_5.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_ic_2.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/ic_2.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_ic_6.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/ic_6.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_name.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/name.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_profile.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/profile.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_notification.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/notification.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_ic_5.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/ic_5.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_top_background2.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/top_background2.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_video_call.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/video_call.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_search_icon.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/search_icon.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_btn_arrow2.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/btn_arrow2.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_video_call.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/video_call.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_btn_arraw1.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/btn_arraw1.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_email.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/email.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_video_call.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/video_call.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_ic_3.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/ic_3.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_ic_4.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/ic_4.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_ic_6.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/ic_6.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_search_icon.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/search_icon.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_top_background1.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/top_background1.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.extramealfix.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_top_background.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/top_background.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_ic_5.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/ic_5.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_ic_3.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/ic_3.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_logo.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_top_background2.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/top_background2.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_top_background1.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/top_background1.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_btn_arrow2.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/btn_arrow2.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_ic_2.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/ic_2.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_ic_7.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/ic_7.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.extramealfix.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_search_icon.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/search_icon.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_top_background1.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/top_background1.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_btn_arraw1.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/btn_arraw1.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_facebook.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/facebook.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_email.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/email.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_google.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/google.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_video_call.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/video_call.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-mdpi_ic_3.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-mdpi/ic_3.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_ic_4.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/ic_4.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_password.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/password.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_google.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/google.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_ic_7.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/ic_7.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.extramealfix.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_notification.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/notification.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.extramealfix.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_voice_call.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/voice_call.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_video_call.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/video_call.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/layout_activity_main.xml.flat",
+        "source": "com.example.extramealfix.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_profile.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/profile.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xhdpi_ic_2.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xhdpi/ic_2.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_google.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/google.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_email.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/email.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.extramealfix.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_ic_8.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/ic_8.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_voice_call.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/voice_call.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxxhdpi_facebook.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxxhdpi/facebook.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_facebook.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/facebook.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_ic_7.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/ic_7.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_bm_nobg.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/bm_nobg.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-hdpi_ic_8.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-hdpi/ic_8.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_top_background1.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/top_background1.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-ldpi_google.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-ldpi/google.png"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/xml_backup_rules.xml.flat",
+        "source": "com.example.extramealfix.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.extramealfix.app-release-34:/drawable-xxhdpi_ic_5.png.flat",
+        "source": "com.example.extramealfix.app-main-35:/drawable-xxhdpi/ic_5.png"
+    }
+]
